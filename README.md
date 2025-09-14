@@ -6,4 +6,4 @@ I am a passionate software developer with a keen interest in building web applic
 
 ## 🚀 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,nodejs,react,vite,nextjs,materialui,express,ts,redux,prisma,postgres,docker,bun,nestjs,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,mongodb,nodejs,react,vite,nextjs,vue,materialui,express,ts,redux,prisma,postgres,docker,bun,nestjs,linux)](https://skillicons.dev)
